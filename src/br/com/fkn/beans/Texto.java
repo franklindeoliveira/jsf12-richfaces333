@@ -1,4 +1,4 @@
-package br.com.integrator;
+package br.com.fkn.beans;
 
 public class Texto {
 
